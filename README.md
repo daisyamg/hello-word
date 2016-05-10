@@ -1,2 +1,2 @@
 # hello-word
-# It's just de beginning
+# It's just the beginning
